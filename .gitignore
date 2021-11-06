@@ -1,0 +1,5 @@
+.idea/
+pdf_1.pdf
+create_pdf.py
+encrypt_pdf.py
+pdf_gui_client.py
